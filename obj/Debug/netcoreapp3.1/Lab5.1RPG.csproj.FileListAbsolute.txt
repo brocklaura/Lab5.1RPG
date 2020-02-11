@@ -1,0 +1,11 @@
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.csprojAssemblyReference.cache
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.AssemblyInfoInputs.cache
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.AssemblyInfo.cs
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.exe
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.deps.json
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.runtimeconfig.json
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.runtimeconfig.dev.json
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.dll
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.pdb
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.dll
+C:\Users\lbrock\OneDrive - Knex\DBVS\OOP\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.pdb
